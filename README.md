@@ -55,4 +55,9 @@ Add a frontend (optional):
 - Use React.js or Flask Templates for booking appointments via a browser.
 - Integrate basic HTML forms.
 
+# Output
+
+  <img width="1419" alt="image" src="https://github.com/user-attachments/assets/4c2223ae-353b-429f-bb1b-43591652362f" />
+
+
 This project is now ready to with Docker, Python, SQLite, and FastAPI in a practical and professional setup! Let me know if you need further explanations or customizations.
