@@ -1,5 +1,5 @@
 # Appointment-Booking-System
-using Python, SQLite, and Docker. This system will let users book, view, and cancel appointments. The app will be Dockerized and hosted locally. Follow these steps to build it:
+This project is a basic appointment booking system built with Python, FastAPI, and SQLite, packaged with Docker for easy deployment.
 
 ---
 
@@ -16,6 +16,12 @@ The Appointment Booking System allows users to:
 - Containerization: Docker
 
 ---
+### **Requirements**
+Ensure the following tools are installed on your system:
+
+Docker (v20.10 or newer)
+Docker Compose (v1.29 or newer)
+
 
 #### **Step 1: Create a Project Structure**
 Create the following directories and files:
@@ -56,8 +62,13 @@ Add a frontend (optional):
 - Integrate basic HTML forms.
 
 # Output
-
+  Swagger UI allows development team to visualize and interact with the API's resources without having any of the implementation logic in place.
   <img width="1419" alt="image" src="https://github.com/user-attachments/assets/4c2223ae-353b-429f-bb1b-43591652362f" />
+
+  Normal view
+
+  <img width="1154" alt="image" src="https://github.com/user-attachments/assets/05c263f4-fe93-4915-9c92-5204d0c3148a" />
+
 
 
 This project is now ready to with Docker, Python, SQLite, and FastAPI in a practical and professional setup! Let me know if you need further explanations or customizations.
