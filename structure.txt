@@ -1,0 +1,10 @@
+appointment_booking/
+├── app/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── database.py
+│   ├── main.py
+│   ├── crud.py
+│   └── Dockerfile
+├── requirements.txt
+└── docker-compose.yml
